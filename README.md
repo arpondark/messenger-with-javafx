@@ -45,7 +45,7 @@ A real-time local messaging application built with JavaFX that enables instant c
 ### 1. Clone & Build
 ```bash
 git clone <repository-url>
-cd messenger
+cd messenger-with-javafx
 mvn clean compile
 ```
 
